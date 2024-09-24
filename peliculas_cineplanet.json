@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "El Guardian de la Magia",
+        "descripcion": "Animación, 1h 30min, APT."
+    },
+    {
+        "titulo": "La Maldicion de Cenicienta",
+        "descripcion": "Terror, 1h 30min, +14."
+    },
+    {
+        "titulo": "Parano-IA",
+        "descripcion": "Terror, 1h 30min, +14."
+    },
+    {
+        "titulo": "Sube a mi nube",
+        "descripcion": "Drama, 1h 50min, +14."
+    },
+    {
+        "titulo": "Terremoto 8.5 Grados",
+        "descripcion": "Acción, 1h 30min, +14."
+    },
+    {
+        "titulo": "Alien: Romulus",
+        "descripcion": "Ciencia Ficción, 2h, +14."
+    },
+    {
+        "titulo": "Beetlejuice Beetlejuice",
+        "descripcion": "Terror, 1h 50min, +14."
+    },
+    {
+        "titulo": "Deadpool & Wolverine",
+        "descripcion": "Acción, 2h 10min, +14."
+    },
+    {
+        "titulo": "Deep Web: Show Mortal",
+        "descripcion": "Terror, 1h 30min, +14."
+    },
+    {
+        "titulo": "Kill Masacre en el Tren",
+        "descripcion": "Acción, 1h 50min, +14 DNI."
+    },
+    {
+        "titulo": "La Caida del Vuelo 811",
+        "descripcion": "Acción, 1h 50min, +14."
+    },
+    {
+        "titulo": "La Forja",
+        "descripcion": "Drama, 2h 10min, +14."
+    }
+]
